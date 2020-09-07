@@ -16,6 +16,9 @@ Suggests:
     data.table,
     Rsamtools
 Description: Basic Exploration and Analysis of Drop-seq Data
+ Dropbead offers a quick and straightfoward way to explore and perform
+ basic analysis of single cell sequencing data coming from droplet
+ sequencing. It has been particularly tailored for Drop-seq.
 License: GNU GPL3
 Collate:
     Tools.R
